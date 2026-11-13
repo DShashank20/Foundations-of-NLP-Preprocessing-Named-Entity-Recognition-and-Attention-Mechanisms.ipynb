@@ -192,11 +192,4 @@ Open the notebook:
 
 Run the cells sequentially to execute all three tasks.
 
-## 📚 Key Learnings
-
-T
-
-
----
-
 ⭐ If you find this project useful, feel free to star the repository!
