@@ -1,7 +1,7 @@
 # Foundations of NLP: Preprocessing, Named Entity Recognition & Attention Mechanisms.   
 
-# Name : SHASHANK REDDY DASARI   
-# ID: 700781569       
+## Name : SHASHANK REDDY DASARI   
+## ID: 700781569       
 
 ## 📌 Project Overview
 
